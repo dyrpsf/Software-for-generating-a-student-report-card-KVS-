@@ -1,0 +1,1 @@
+create table report_cards(ubiid varchar(50) primary key,name varchar(50),father_name varchar(50),roll_no varchar(100),class varchar(50),section varchar(50),sessions varchar(100),total_obtained_marks varchar(100),maximum_marks varchar(100),percentage varchar(100),attendance_percentage varchar(100),remarks varchar(100))
